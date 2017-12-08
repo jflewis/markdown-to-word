@@ -10,7 +10,7 @@ Files are written in markdown and convert to Microsoft docx using pandoc. Pandoc
 To generate the docx's run...
 
 ```bash
-npm run build
+npm run to-doc
 ```
 
 This will scan the src dir for all markdown files, convert them to docx, and spit them out in the `dist` directory.

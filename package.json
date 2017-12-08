@@ -1,0 +1,16 @@
+{
+  "name": "markdown-to-word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "to-doc": "./lib/md-to-docx.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "NONE",
+  "dependencies": {
+    "node-pandoc": "^0.3.0"
+  }
+}
